@@ -1,0 +1,15 @@
+<resources>
+    <!-- Primary brand colors -->
+    <color name="colorPrimary">#6D4C41</color> <!-- Brown -->
+    <color name="colorPrimaryDark">#5D4037</color> <!-- Darker Brown -->
+    <color name="colorAccent">#FFB300</color> <!-- Warm Amber -->
+
+    <!-- Additional UI colors -->
+    <color name="colorBackground">#FFF8E1</color> <!-- Cream -->
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+
+    <!-- Purchase status colors -->
+    <color name="colorSuccess">#4CAF50</color> <!-- Green -->
+    <color name="colorError">#F44336</color> <!-- Red -->
+</resources>
